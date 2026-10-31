@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds a structured price book and walks an estimate through it line by line, so pricing stops living in memory.",
+  "keywords": [
+    "book",
+    "kairos",
+    "price",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-price-book",
+  "repository": "https://github.com/baselam88/kairos-price-book-plugin",
+  "version": "0.1.0"
+}
